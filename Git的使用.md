@@ -26,4 +26,9 @@
             // push是提交，fetch是取回
             $ git push origin master
             // 输入用户名和密码
+            $ git clone url -b branchname //克隆分支到本地
+            $ git fetch origin branchname //下载分支到本地
+
+            $ git push //推送到仓库
+            $ git pull //拉取最新的项目
         ```
